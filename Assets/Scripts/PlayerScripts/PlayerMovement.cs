@@ -9,6 +9,8 @@ public class PlayerMovement : MonoBehaviour
 
     private Vector2 movementInput;
 
+    private float inputThreshold = 0.01f;
+
     [SerializeField]
     private InputActionReference movement;
 
@@ -23,9 +25,19 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (movementInput.sqrMagnitude < 0.01f) {
+        if (movementInput.sqrMagnitude < inputThreshold) 
+        {
             movementInput = Vector2.zero;
         }
+
         rb.linearVelocity = movementInput * movementSpeed;
+
+        if (movementInput.x < -inputThreshold)
+        {
+            transform.rotation = Quaternion.Euler(0, 0, 0);
+        } else if (movementInput.x > inputThreshold) 
+        {
+            transform.rotation = Quaternion.Euler(0, 180, 0);
+        }
     }
 }

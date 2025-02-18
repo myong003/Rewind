@@ -130,12 +130,12 @@ TextureImporter:
       name: cat_runLeft_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 7
-        width: 53
-        height: 42
+        x: 0
+        y: 0
+        width: 64
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -152,12 +152,12 @@ TextureImporter:
       name: cat_runLeft_1
       rect:
         serializedVersion: 2
-        x: 74
-        y: 7
-        width: 51
-        height: 41
+        x: 64
+        y: 0
+        width: 64
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -174,12 +174,12 @@ TextureImporter:
       name: cat_runLeft_2
       rect:
         serializedVersion: 2
-        x: 139
-        y: 7
-        width: 49
-        height: 41
+        x: 128
+        y: 0
+        width: 64
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -196,12 +196,12 @@ TextureImporter:
       name: cat_runLeft_3
       rect:
         serializedVersion: 2
-        x: 204
-        y: 7
-        width: 48
-        height: 41
+        x: 192
+        y: 0
+        width: 64
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -218,12 +218,12 @@ TextureImporter:
       name: cat_runLeft_4
       rect:
         serializedVersion: 2
-        x: 266
-        y: 7
-        width: 49
-        height: 42
+        x: 256
+        y: 0
+        width: 64
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -240,12 +240,12 @@ TextureImporter:
       name: cat_runLeft_5
       rect:
         serializedVersion: 2
-        x: 330
-        y: 7
-        width: 51
-        height: 42
+        x: 320
+        y: 0
+        width: 64
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -262,12 +262,12 @@ TextureImporter:
       name: cat_runLeft_6
       rect:
         serializedVersion: 2
-        x: 394
-        y: 13
-        width: 52
-        height: 36
+        x: 384
+        y: 0
+        width: 64
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -284,12 +284,12 @@ TextureImporter:
       name: cat_runLeft_7
       rect:
         serializedVersion: 2
-        x: 458
-        y: 16
-        width: 53
-        height: 33
+        x: 448
+        y: 0
+        width: 64
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -302,55 +302,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: cat_runLeft_8
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 7
-        width: 49
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6709e6a44a898f440800000000000000
-      internalID: 4969890020194160758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: cat_runLeft_9
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 7
-        width: 49
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfdb5ef9d5e75b610800000000000000
-      internalID: 1636352980198735356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3a48835673a250148ab912bfa9a80959
     internalID: 0
     vertices: []
     indices: 
@@ -368,8 +324,6 @@ TextureImporter:
       cat_runLeft_5: 6640139336251307468
       cat_runLeft_6: 8843464848403077109
       cat_runLeft_7: -4258001387909248175
-      cat_runLeft_8: 4969890020194160758
-      cat_runLeft_9: 1636352980198735356
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
