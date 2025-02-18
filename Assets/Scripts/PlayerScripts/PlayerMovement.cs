@@ -30,12 +30,13 @@ public class PlayerMovement : MonoBehaviour
             movementInput = Vector2.zero;
         }
 
-        rb.linearVelocity = movementInput * movementSpeed;
+        rb.linearVelocity = movementInput.normalized * movementSpeed;
 
         if (movementInput.x < -inputThreshold)
         {
             transform.rotation = Quaternion.Euler(0, 0, 0);
-        } else if (movementInput.x > inputThreshold) 
+        } 
+        else if (movementInput.x > inputThreshold) 
         {
             transform.rotation = Quaternion.Euler(0, 180, 0);
         }
