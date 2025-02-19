@@ -4,34 +4,33 @@ using UnityEngine;
 
 public class TimeBody : MonoBehaviour
 {
-	struct PointInTime
-	{
-		public Vector3 position;
+	private bool isRewinding = false;
 
-		public PointInTime(Vector3 _position)
-		{
-			position = _position;
-		}
-	}
+	public float recordTime = 3f;
 
-	bool isRewinding = false;
+	private PointInTime[] pointsInTime = null;
 
-	public float recordTime = 5f;
-
-	List<PointInTime> pointsInTime;
+	private int recordingPosition = 0;
+	private int currentRewindPosition = 0;
+	private int startingRewindPosition = 0;
+	private float birthTime;
+	private float timeSinceBirth;
 
 	Rigidbody2D rb;
 
 	// Use this for initialization
 	void Start()
 	{
-		pointsInTime = new List<PointInTime>();
+		pointsInTime = new PointInTime[(int)Mathf.Round(recordTime / Time.fixedDeltaTime)];
 		rb = GetComponent<Rigidbody2D>();
+		birthTime = Time.time;
 	}
 
 	// Update is called once per frame
 	void Update()
 	{
+		timeSinceBirth = Time.time - birthTime;
+
 		if (Input.GetKeyDown(KeyCode.R))
 			StartRewind();
 		if (Input.GetKeyUp(KeyCode.R))
@@ -48,37 +47,60 @@ public class TimeBody : MonoBehaviour
 
 	void Rewind()
 	{
-		if (pointsInTime.Count > 0)
+		if (currentRewindPosition < 0)
+		{ 
+			currentRewindPosition = pointsInTime.Length - 1;
+		}
+
+		if (pointsInTime[currentRewindPosition] != null)
 		{
-			PointInTime pointInTime = pointsInTime[0];
+			PointInTime pointInTime = pointsInTime[currentRewindPosition];
 			transform.position = pointInTime.position;
-			pointsInTime.RemoveAt(0);
+			pointsInTime[currentRewindPosition] = null;
+			currentRewindPosition--;
+		}
+		else if (timeSinceBirth <= recordTime)
+		{
+			//Object was spawned less than RecordTime seconds ago
+			//Destroy Object
+			Destroy(this.gameObject);
 		}
 		else
 		{
 			StopRewind();
 		}
-
 	}
 
 	void Record()
 	{
-		if (pointsInTime.Count > Mathf.Round(recordTime / Time.fixedDeltaTime))
+		if (recordingPosition >= pointsInTime.Length)
 		{
-			pointsInTime.RemoveAt(pointsInTime.Count - 1);
+			recordingPosition = 0;
 		}
 
-		pointsInTime.Insert(0, new PointInTime(transform.position));
+		// This is for manual Garbage Collection
+		if (pointsInTime[recordingPosition] != null)
+		{
+			pointsInTime[recordingPosition] = null;
+		}
+
+		pointsInTime[recordingPosition] = new PointInTime(transform.position);
+
+		startingRewindPosition = recordingPosition;
+		recordingPosition += 1;
 	}
 
 	public void StartRewind()
 	{
+		currentRewindPosition = startingRewindPosition;
 		isRewinding = true;
 		rb.bodyType = RigidbodyType2D.Kinematic;
 	}
 
 	public void StopRewind()
 	{
+		startingRewindPosition = recordingPosition;
+		currentRewindPosition = -1;
 		isRewinding = false;
 		rb.bodyType = RigidbodyType2D.Dynamic;
 	}
