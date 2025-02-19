@@ -15,15 +15,12 @@ public class EntityCombat : MonoBehaviour
         }
     }
 
-    private void attack() {
+    protected virtual void attack() {
         spawner.SpawnBullet();
     }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-            attack();
-        }
+
     }
 }

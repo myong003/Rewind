@@ -46,7 +46,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 2686386798147637609, guid: e344e768a79f27b41836820fde0df461, type: 3}
   spawnPosition: {fileID: 3131976574234048346}
-  direction: {x: 0, y: -1, z: 0}
   projectileSpeed: 1
 --- !u!1 &7741998998769874656
 GameObject:
@@ -151,7 +150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 5
-  team: 1
+  team: 0
   spawner: {fileID: 1700078933739306429}
 --- !u!61 &5719111115851284207
 BoxCollider2D:
