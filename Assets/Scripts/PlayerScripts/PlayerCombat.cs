@@ -3,8 +3,11 @@ using UnityEngine;
 public class PlayerCombat : EntityCombat
 {
     public PlayerLook playerLook;
+
+    public PlayerWeapon playerWeapon;
     protected override void attack() {
-        spawner.SpawnBullet(playerLook.mouseDirection);
+        // spawner.SpawnBullet(playerLook.mouseDirection);
+        playerWeapon.shoot(spawner, playerLook);
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
