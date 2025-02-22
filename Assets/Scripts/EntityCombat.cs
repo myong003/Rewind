@@ -7,7 +7,8 @@ public class EntityCombat : MonoBehaviour
     public ProjectileSpawner spawner;
     private double currentHealth;
     
-    public void takeDamage(double damageTaken) {
+    public void takeDamage(double damageTaken) 
+    {
         currentHealth -= damageTaken;
         print(this.gameObject + " took " + damageTaken + " damage");
         if (currentHealth <= 0) {
@@ -15,12 +16,18 @@ public class EntityCombat : MonoBehaviour
         }
     }
 
-    protected virtual void attack() {
+    protected virtual void attack() 
+    {
         spawner.SpawnBullet();
     }
 
-    void Update()
+    protected virtual void attack(Vector3 direction) 
     {
-
+        spawner.SpawnBullet(direction);
     }
+
+    protected virtual void Start() 
+    {
+        currentHealth = maxHealth;
+    }    
 }

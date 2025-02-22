@@ -146,7 +146,7 @@ MonoBehaviour:
   maxHealth: 1
   team: 0
   spawner: {fileID: 0}
-  disappearOnHit: 0
+  disappearOnHit: 1
   damageDealt: 1
 --- !u!58 &3928010370646504039
 CircleCollider2D:

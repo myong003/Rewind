@@ -19,7 +19,7 @@ public class ProjectileSpawner : MonoBehaviour
     public void SpawnBullet(Vector3 direction) {
         if (projectile != null) {
             GameObject spawnedProjectile = Instantiate(projectile, spawnPosition.position, spawnPosition.rotation);
-            spawnedProjectile.GetComponent<Rigidbody2D>().AddForce(direction * projectileSpeed, ForceMode2D.Impulse);
+            spawnedProjectile.GetComponent<Rigidbody2D>().AddForce(direction.normalized * projectileSpeed, ForceMode2D.Impulse);
             spawnedProjectile.GetComponent<Projectile>().team = team;
         }
     }
