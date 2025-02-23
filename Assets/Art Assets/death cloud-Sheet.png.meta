@@ -1,0 +1,4067 @@
+fileFormatVersion: 2
+guid: 250b0982f68592945a0fde846a923990
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -693134287937467771
+    second: death cloud-Sheet_0
+  - first:
+      213: 214349386559709337
+    second: death cloud-Sheet_1
+  - first:
+      213: -2740600145586001103
+    second: death cloud-Sheet_2
+  - first:
+      213: 5354273712773552421
+    second: death cloud-Sheet_3
+  - first:
+      213: 5880050173886096661
+    second: death cloud-Sheet_4
+  - first:
+      213: 1328383228936797591
+    second: death cloud-Sheet_5
+  - first:
+      213: 1209781672968235630
+    second: death cloud-Sheet_6
+  - first:
+      213: 8252245188149189385
+    second: death cloud-Sheet_7
+  - first:
+      213: -2316261907479405729
+    second: death cloud-Sheet_8
+  - first:
+      213: 6597419975965797319
+    second: death cloud-Sheet_9
+  - first:
+      213: 8184653650951102391
+    second: death cloud-Sheet_10
+  - first:
+      213: -8221433182669815908
+    second: death cloud-Sheet_11
+  - first:
+      213: 4890747071100154436
+    second: death cloud-Sheet_12
+  - first:
+      213: 1422812295923694482
+    second: death cloud-Sheet_13
+  - first:
+      213: 1792570774467401711
+    second: death cloud-Sheet_14
+  - first:
+      213: -8209934575885424918
+    second: death cloud-Sheet_15
+  - first:
+      213: 7331486004151708457
+    second: death cloud-Sheet_16
+  - first:
+      213: -9145284473666104975
+    second: death cloud-Sheet_17
+  - first:
+      213: -8999532529280874608
+    second: death cloud-Sheet_18
+  - first:
+      213: 7189489012958992544
+    second: death cloud-Sheet_19
+  - first:
+      213: 3843102241061770562
+    second: death cloud-Sheet_20
+  - first:
+      213: -8622947098852594772
+    second: death cloud-Sheet_21
+  - first:
+      213: 5077839141050394093
+    second: death cloud-Sheet_22
+  - first:
+      213: -8709274631218284843
+    second: death cloud-Sheet_23
+  - first:
+      213: 3875584363496023257
+    second: death cloud-Sheet_24
+  - first:
+      213: -584750449216495779
+    second: death cloud-Sheet_25
+  - first:
+      213: 3904440105561310994
+    second: death cloud-Sheet_26
+  - first:
+      213: -1574410524629407544
+    second: death cloud-Sheet_27
+  - first:
+      213: -4689448415555709114
+    second: death cloud-Sheet_28
+  - first:
+      213: 4090123815900620835
+    second: death cloud-Sheet_29
+  - first:
+      213: 4592243348084736244
+    second: death cloud-Sheet_30
+  - first:
+      213: -5730142127956534590
+    second: death cloud-Sheet_31
+  - first:
+      213: 8138195685372013528
+    second: death cloud-Sheet_32
+  - first:
+      213: -5050950293883239293
+    second: death cloud-Sheet_33
+  - first:
+      213: 4398679647644822170
+    second: death cloud-Sheet_34
+  - first:
+      213: 1765327553513155548
+    second: death cloud-Sheet_35
+  - first:
+      213: 6059479206913129045
+    second: death cloud-Sheet_36
+  - first:
+      213: 8119702644459469787
+    second: death cloud-Sheet_37
+  - first:
+      213: -3935377529908013243
+    second: death cloud-Sheet_38
+  - first:
+      213: -6449980430499112133
+    second: death cloud-Sheet_39
+  - first:
+      213: -518727345962438862
+    second: death cloud-Sheet_40
+  - first:
+      213: -8283989608130818973
+    second: death cloud-Sheet_41
+  - first:
+      213: 7325361940615777782
+    second: death cloud-Sheet_42
+  - first:
+      213: 8095404973291009418
+    second: death cloud-Sheet_43
+  - first:
+      213: 3440907998924620873
+    second: death cloud-Sheet_44
+  - first:
+      213: 354470177063827983
+    second: death cloud-Sheet_45
+  - first:
+      213: 5488185278262303446
+    second: death cloud-Sheet_46
+  - first:
+      213: 7386861501276989385
+    second: death cloud-Sheet_47
+  - first:
+      213: 7273161357670922126
+    second: death cloud-Sheet_48
+  - first:
+      213: -659347589040408481
+    second: death cloud-Sheet_49
+  - first:
+      213: -5781477034874838496
+    second: death cloud-Sheet_50
+  - first:
+      213: -2828130374822244000
+    second: death cloud-Sheet_51
+  - first:
+      213: -8596929703787137047
+    second: death cloud-Sheet_52
+  - first:
+      213: 8107342056828229235
+    second: death cloud-Sheet_53
+  - first:
+      213: 4165158515786038821
+    second: death cloud-Sheet_54
+  - first:
+      213: -5355043127935459246
+    second: death cloud-Sheet_55
+  - first:
+      213: 5081789496377743383
+    second: death cloud-Sheet_56
+  - first:
+      213: -2124550256489763771
+    second: death cloud-Sheet_57
+  - first:
+      213: -6261187690942833050
+    second: death cloud-Sheet_58
+  - first:
+      213: 8237061495972811848
+    second: death cloud-Sheet_59
+  - first:
+      213: -3068345153074868518
+    second: death cloud-Sheet_60
+  - first:
+      213: 7343304388654354631
+    second: death cloud-Sheet_61
+  - first:
+      213: -4816658016942272368
+    second: death cloud-Sheet_62
+  - first:
+      213: 7822206102075389420
+    second: death cloud-Sheet_63
+  - first:
+      213: -8374201257917582819
+    second: death cloud-Sheet_64
+  - first:
+      213: -7129578014872765541
+    second: death cloud-Sheet_65
+  - first:
+      213: 7568021324215901269
+    second: death cloud-Sheet_66
+  - first:
+      213: 9190401174752433308
+    second: death cloud-Sheet_67
+  - first:
+      213: 5972107771515746552
+    second: death cloud-Sheet_68
+  - first:
+      213: -5295000127388625411
+    second: death cloud-Sheet_69
+  - first:
+      213: 8694790191523781632
+    second: death cloud-Sheet_70
+  - first:
+      213: 1402136462998436335
+    second: death cloud-Sheet_71
+  - first:
+      213: -3272049443608258626
+    second: death cloud-Sheet_72
+  - first:
+      213: 2242344244861514735
+    second: death cloud-Sheet_73
+  - first:
+      213: -4467181474116035078
+    second: death cloud-Sheet_74
+  - first:
+      213: -4340331332836478047
+    second: death cloud-Sheet_75
+  - first:
+      213: -8373784115062466508
+    second: death cloud-Sheet_76
+  - first:
+      213: 3519631759982490761
+    second: death cloud-Sheet_77
+  - first:
+      213: -1052495946094034846
+    second: death cloud-Sheet_78
+  - first:
+      213: 1567341020456440301
+    second: death cloud-Sheet_79
+  - first:
+      213: -138134160281054107
+    second: death cloud-Sheet_80
+  - first:
+      213: -4867186235551402993
+    second: death cloud-Sheet_81
+  - first:
+      213: 146009707262318388
+    second: death cloud-Sheet_82
+  - first:
+      213: 8584500026291881675
+    second: death cloud-Sheet_83
+  - first:
+      213: -3793074248011534587
+    second: death cloud-Sheet_84
+  - first:
+      213: -793409910096382142
+    second: death cloud-Sheet_85
+  - first:
+      213: -6044357094190158019
+    second: death cloud-Sheet_86
+  - first:
+      213: 4723166124042813290
+    second: death cloud-Sheet_87
+  - first:
+      213: 4939167511613288625
+    second: death cloud-Sheet_88
+  - first:
+      213: -4058728748609006614
+    second: death cloud-Sheet_89
+  - first:
+      213: 7895263122908591291
+    second: death cloud-Sheet_90
+  - first:
+      213: 795038037899526810
+    second: death cloud-Sheet_91
+  - first:
+      213: 953548386659096813
+    second: death cloud-Sheet_92
+  - first:
+      213: -1590055441087884529
+    second: death cloud-Sheet_93
+  - first:
+      213: -421725747652324346
+    second: death cloud-Sheet_94
+  - first:
+      213: 2819065982217904697
+    second: death cloud-Sheet_95
+  - first:
+      213: -1566549912680448015
+    second: death cloud-Sheet_96
+  - first:
+      213: 4173931123773068742
+    second: death cloud-Sheet_97
+  - first:
+      213: 1193071082003113840
+    second: death cloud-Sheet_98
+  - first:
+      213: 2894969490222191358
+    second: death cloud-Sheet_99
+  - first:
+      213: -8807459583711887302
+    second: death cloud-Sheet_100
+  - first:
+      213: -6371400138838000436
+    second: death cloud-Sheet_101
+  - first:
+      213: 2557872951119142724
+    second: death cloud-Sheet_102
+  - first:
+      213: 5907275040740948836
+    second: death cloud-Sheet_103
+  - first:
+      213: 8750343411538754881
+    second: death cloud-Sheet_104
+  - first:
+      213: -3824900562392100660
+    second: death cloud-Sheet_105
+  - first:
+      213: 1683991585726245664
+    second: death cloud-Sheet_106
+  - first:
+      213: 374055237771609020
+    second: death cloud-Sheet_107
+  - first:
+      213: 2995725754449413848
+    second: death cloud-Sheet_108
+  - first:
+      213: -5249936093861932297
+    second: death cloud-Sheet_109
+  - first:
+      213: -1824702914681601434
+    second: death cloud-Sheet_110
+  - first:
+      213: -935874772788349682
+    second: death cloud-Sheet_111
+  - first:
+      213: 1111278071895313438
+    second: death cloud-Sheet_112
+  - first:
+      213: 8659848759819302754
+    second: death cloud-Sheet_113
+  - first:
+      213: 1943322420365522455
+    second: death cloud-Sheet_114
+  - first:
+      213: 8018296447080031686
+    second: death cloud-Sheet_115
+  - first:
+      213: 584219640113559545
+    second: death cloud-Sheet_116
+  - first:
+      213: 6721909399608494721
+    second: death cloud-Sheet_117
+  - first:
+      213: -7087074807461747209
+    second: death cloud-Sheet_118
+  - first:
+      213: -7364222012340120041
+    second: death cloud-Sheet_119
+  - first:
+      213: -8369100506149346215
+    second: death cloud-Sheet_120
+  - first:
+      213: 3530340247765773012
+    second: death cloud-Sheet_121
+  - first:
+      213: -1315478160233875866
+    second: death cloud-Sheet_122
+  - first:
+      213: -867816177503623943
+    second: death cloud-Sheet_123
+  - first:
+      213: -8863809417829989549
+    second: death cloud-Sheet_124
+  - first:
+      213: 7019532571520466303
+    second: death cloud-Sheet_125
+  - first:
+      213: 8283495094745892341
+    second: death cloud-Sheet_126
+  - first:
+      213: 4127518385744258148
+    second: death cloud-Sheet_127
+  - first:
+      213: -837209405276282929
+    second: death cloud-Sheet_128
+  - first:
+      213: -4806482428734054399
+    second: death cloud-Sheet_129
+  - first:
+      213: 7827358501258409334
+    second: death cloud-Sheet_130
+  - first:
+      213: -7146252650958924898
+    second: death cloud-Sheet_131
+  - first:
+      213: -3615590788841275775
+    second: death cloud-Sheet_132
+  - first:
+      213: 2214854084968301838
+    second: death cloud-Sheet_133
+  - first:
+      213: 6501928358510728439
+    second: death cloud-Sheet_134
+  - first:
+      213: 5359487105291832458
+    second: death cloud-Sheet_135
+  - first:
+      213: 7110642802407433516
+    second: death cloud-Sheet_136
+  - first:
+      213: -3652445407219597756
+    second: death cloud-Sheet_137
+  - first:
+      213: 8125051216693432858
+    second: death cloud-Sheet_138
+  - first:
+      213: -3733587836115773160
+    second: death cloud-Sheet_139
+  - first:
+      213: -9072780539124106786
+    second: death cloud-Sheet_140
+  - first:
+      213: 5240522111995125890
+    second: death cloud-Sheet_141
+  - first:
+      213: 3216366271521912924
+    second: death cloud-Sheet_142
+  - first:
+      213: 7255892767180234534
+    second: death cloud-Sheet_143
+  - first:
+      213: 377425816698874154
+    second: death cloud-Sheet_144
+  - first:
+      213: 4654194010176867555
+    second: death cloud-Sheet_145
+  - first:
+      213: 1795368992986811580
+    second: death cloud-Sheet_146
+  - first:
+      213: 7749112042507764475
+    second: death cloud-Sheet_147
+  - first:
+      213: -8706221215434117826
+    second: death cloud-Sheet_148
+  - first:
+      213: 451361038121537245
+    second: death cloud-Sheet_149
+  - first:
+      213: 6168741210407517870
+    second: death cloud-Sheet_150
+  - first:
+      213: 9120592778569441949
+    second: death cloud-Sheet_151
+  - first:
+      213: -5816492983351575038
+    second: death cloud-Sheet_152
+  - first:
+      213: -7673649989732230680
+    second: death cloud-Sheet_153
+  - first:
+      213: -5054825084036443231
+    second: death cloud-Sheet_154
+  - first:
+      213: -2529606456994335710
+    second: death cloud-Sheet_155
+  - first:
+      213: -7160294486008600933
+    second: death cloud-Sheet_156
+  - first:
+      213: -9430290506411464
+    second: death cloud-Sheet_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: death cloud-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 390
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a08d9990e7166f0800000000000000
+      internalID: -693134287937467771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 406
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990e6b3a1a589f200800000000000000
+      internalID: 214349386559709337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 392
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b66fa10be67f9d0800000000000000
+      internalID: -2740600145586001103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 388
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5295418d2933e4a40800000000000000
+      internalID: 5354273712773552421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 422
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51564f3ba722a9150800000000000000
+      internalID: 5880050173886096661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 402
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d3d56328d5f6210800000000000000
+      internalID: 1328383228936797591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 374
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aac0995020ac010800000000000000
+      internalID: 1209781672968235630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 406
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b1f0fb64dd58270800000000000000
+      internalID: 8252245188149189385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 414
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bdbe5311cfadfd0800000000000000
+      internalID: -2316261907479405729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 410
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbe185738ebe8b50800000000000000
+      internalID: 6597419975965797319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 402
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf5b82a12bb59170800000000000000
+      internalID: 8184653650951102391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 410
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f3b52541a97ed80800000000000000
+      internalID: -8221433182669815908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 408
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442f4338c8c6fd340800000000000000
+      internalID: 4890747071100154436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 408
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bf698ae38deb310800000000000000
+      internalID: 1422812295923694482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 387
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe750e63f9d70e810800000000000000
+      internalID: 1792570774467401711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 407
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6e6275004701e80800000000000000
+      internalID: -8209934575885424918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 415
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92be5394dabaeb560800000000000000
+      internalID: 7331486004151708457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 415
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1719c39993c651180800000000000000
+      internalID: -9145284473666104975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 391
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09704af98dc3b1380800000000000000
+      internalID: -8999532529280874608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 386
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a89efd6a2236c360800000000000000
+      internalID: 7189489012958992544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 396
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2459ef96021755530800000000000000
+      internalID: 3843102241061770562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 398
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabe7e7cc43255880800000000000000
+      internalID: -8622947098852594772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 394
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de522e49bcb187640800000000000000
+      internalID: 5077839141050394093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 394
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6b9eaddd0722780800000000000000
+      internalID: -8709274631218284843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 382
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d42d33e177d8c530800000000000000
+      internalID: 3875584363496023257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 378
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f5338809c82e7f0800000000000000
+      internalID: -584750449216495779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 370
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21745c2e69b5f2630800000000000000
+      internalID: 3904440105561310994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 376
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8e3dc28f1962ae0800000000000000
+      internalID: -1574410524629407544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 376
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6479846038bbbeeb0800000000000000
+      internalID: -4689448415555709114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 384
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3282f1ea0f903c830800000000000000
+      internalID: 4090123815900620835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 384
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0cdbc8efceabf30800000000000000
+      internalID: 4592243348084736244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 384
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca56ae18127a70b0800000000000000
+      internalID: -5730142127956534590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 375
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db273b9bdda0f070800000000000000
+      internalID: 8138195685372013528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3844fe2087b67e9b0800000000000000
+      internalID: -5050950293883239293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 362
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a2c9695df3b0d30800000000000000
+      internalID: 4398679647644822170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 263
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb6c5b8e04bf7810800000000000000
+      internalID: 1765327553513155548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 362
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a3ce3fb38971450800000000000000
+      internalID: 6059479206913129045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 366
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb7eccf88afea070800000000000000
+      internalID: 8119702644459469787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 363
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54757c0bcfab269c0800000000000000
+      internalID: -3935377529908013243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 312
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b11efc8f01d76a0800000000000000
+      internalID: -6449980430499112133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 374
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fa0a82a3c1dc8f0800000000000000
+      internalID: -518727345962438862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 364
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cc554875b590d80800000000000000
+      internalID: -8283989608130818973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 372
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdc191afd9e8a560800000000000000
+      internalID: 7325361940615777782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 278
+        width: 133
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85f0f19ee7a85070800000000000000
+      internalID: 8095404973291009418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 347
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944c3b4289f80cf20800000000000000
+      internalID: 3440907998924620873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 290
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0afb5b7fb45be400800000000000000
+      internalID: 354470177063827983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 342
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da5a54de63f92c40800000000000000
+      internalID: 5488185278262303446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 352
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7af9ce567638660800000000000000
+      internalID: 7386861501276989385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 308
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87b21e48b57fe460800000000000000
+      internalID: 7273161357670922126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 338
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f587cb37cd689d6f0800000000000000
+      internalID: -659347589040408481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 339
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022e433b44114cfa0800000000000000
+      internalID: -5781477034874838496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 337
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0615a3e786670c8d0800000000000000
+      internalID: -2828130374822244000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 172
+        width: 291
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e773ce9bf191b880800000000000000
+      internalID: -8596929703787137047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 314
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376d4d965a0138070800000000000000
+      internalID: 8107342056828229235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 326
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ebe962a9d9dc930800000000000000
+      internalID: 4165158515786038821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 322
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250a28ab5a01fa5b0800000000000000
+      internalID: -5355043127935459246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 329
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71818ea5f94268640800000000000000
+      internalID: 5081789496377743383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 312
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c667e4cc41482e0800000000000000
+      internalID: -2124550256489763771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 314
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66edd41e7facb19a0800000000000000
+      internalID: -6261187690942833050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 321
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844d18ce9cbef4270800000000000000
+      internalID: 8237061495972811848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade4eae075c0b65d0800000000000000
+      internalID: -3068345153074868518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c05f4b5f68a8e560800000000000000
+      internalID: 7343304388654354631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 298
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0905e97ad0bc72db0800000000000000
+      internalID: -4816658016942272368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 304
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b81a810f0e8c60800000000000000
+      internalID: 7822206102075389420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 298
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d127138035cd8cb80800000000000000
+      internalID: -8374201257917582819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 294
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bf211d196ae0d90800000000000000
+      internalID: -7129578014872765541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 286
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c587a1c43070960800000000000000
+      internalID: 7568021324215901269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 298
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c949374fc2dda8f70800000000000000
+      internalID: 9190401174752433308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 288
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8bb89606031e250800000000000000
+      internalID: 5972107771515746552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 288
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df55a5130716486b0800000000000000
+      internalID: -5295000127388625411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 208
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c535abc991aa870800000000000000
+      internalID: 8694790191523781632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 280
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f4ab2fa3657310800000000000000
+      internalID: 1402136462998436335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 257
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7173afd585792d0800000000000000
+      internalID: -3272049443608258626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 274
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3bc13d5386e1f10800000000000000
+      internalID: 2242344244861514735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 263
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd9b101e126102c0800000000000000
+      internalID: -4467181474116035078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 267
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3b8ca16ab04c3c0800000000000000
+      internalID: -4340331332836478047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 266
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43894eba6b75acb80800000000000000
+      internalID: -8373784115062466508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 276
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98470f9107e38d030800000000000000
+      internalID: 3519631759982490761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 278
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260c68d6388c461f0800000000000000
+      internalID: -1052495946094034846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 276
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1543e9a5050c510800000000000000
+      internalID: 1567341020456440301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 278
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564d91d86bf351ef0800000000000000
+      internalID: -138134160281054107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 244
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04b94ef7e7447cb0800000000000000
+      internalID: -4867186235551402993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 252
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437112f1e0bb60200800000000000000
+      internalID: 146009707262318388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 140
+        width: 124
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc685719a45422770800000000000000
+      internalID: 8584500026291881675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 234
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f2798611b4c5bc0800000000000000
+      internalID: -3793074248011534587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 126
+        width: 128
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2473e63f3ed3df4f0800000000000000
+      internalID: -793409910096382142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 220
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fee294f312e1ca0800000000000000
+      internalID: -6044357094190158019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 224
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ffabeb09e0c8140800000000000000
+      internalID: 4723166124042813290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 212
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b03cd7dea27b8440800000000000000
+      internalID: 4939167511613288625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 209
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae39e7b05bf7ca7c0800000000000000
+      internalID: -4058728748609006614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 204
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb43539bafb919d60800000000000000
+      internalID: 7895263122908591291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 202
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92cce712ea880b00800000000000000
+      internalID: 795038037899526810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 212
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de856fe943fab3d00800000000000000
+      internalID: 953548386659096813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0397c4300dfee9e0800000000000000
+      internalID: -1590055441087884529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 169
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6041c8abaaab52af0800000000000000
+      internalID: -421725747652324346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 194
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9326c7423955f1720800000000000000
+      internalID: 2819065982217904697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 189
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff33c3872f724ae0800000000000000
+      internalID: -1566549912680448015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 116
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5d07d1e38cce930800000000000000
+      internalID: 4173931123773068742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 196
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0772692f3d3ae8010800000000000000
+      internalID: 1193071082003113840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 182
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef29944c96ffc2820800000000000000
+      internalID: 2894969490222191358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 202
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a304e3b2c2e95c580800000000000000
+      internalID: -8807459583711887302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 198
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccbfa2b45d3497a0800000000000000
+      internalID: -6371400138838000436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 118
+        width: 109
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f590895e36f7320800000000000000
+      internalID: 2557872951119142724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 184
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b35e9f95bdaf150800000000000000
+      internalID: 5907275040740948836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 188
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d7273b8f67f6970800000000000000
+      internalID: 8750343411538754881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 150
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc05d6524393beac0800000000000000
+      internalID: -3824900562392100660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 164
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ba5ffcc6dbe5710800000000000000
+      internalID: 1683991585726245664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 164
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb340c5c149e03500800000000000000
+      internalID: 374055237771609020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 154
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6427e93b4f29920800000000000000
+      internalID: 2995725754449413848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 152
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f29bdf10fa7427b0800000000000000
+      internalID: -5249936093861932297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 162
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66288c5ed5a5da6e0800000000000000
+      internalID: -1824702914681601434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 150
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0573b54ada1303f0800000000000000
+      internalID: -935874772788349682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 134
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c4002c48d0c6f00800000000000000
+      internalID: 1111278071895313438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 140
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267f2a1b096fd2870800000000000000
+      internalID: 8659848759819302754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71670f5f17118fa10800000000000000
+      internalID: 1943322420365522455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 128
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c56bf7c226b64f60800000000000000
+      internalID: 8018296447080031686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 111
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f776c7daa09b1800800000000000000
+      internalID: 584219640113559545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 136
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a06081cf4094d50800000000000000
+      internalID: 6721909399608494721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 122
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f56f94f207a5ad90800000000000000
+      internalID: -7087074807461747209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 138
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716da5bd8170dc990800000000000000
+      internalID: -7364222012340120041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 132
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9542d695e6bfadb80800000000000000
+      internalID: -8369100506149346215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dae75430c94ef030800000000000000
+      internalID: 3530340247765773012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 114
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666b97d359b7ebde0800000000000000
+      internalID: -1315478160233875866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 124
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f42f81d8c5e4f3f0800000000000000
+      internalID: -867816177503623943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 102
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3534b750c4c6df480800000000000000
+      internalID: -8863809417829989549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7df2c6cea36a6160800000000000000
+      internalID: 7019532571520466303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 97
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5050d96e2e4f270800000000000000
+      internalID: 8283495094745892341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 98
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4642e227a14e74930800000000000000
+      internalID: 4127518385744258148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 96
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf14eb4b72a164f0800000000000000
+      internalID: -837209405276282929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100662862b1fb4db0800000000000000
+      internalID: -4806482428734054399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 106
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6753425f51d50ac60800000000000000
+      internalID: 7827358501258409334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 112
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e935660931963dc90800000000000000
+      internalID: -7146252650958924898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 91
+        width: 95
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ef0f17557d2ddc0800000000000000
+      internalID: -3615590788841275775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 113
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05cbd33e0ebcbe10800000000000000
+      internalID: 2214854084968301838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 70
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f41214b46d7b3a50800000000000000
+      internalID: 6501928358510728439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cc4316029b06a40800000000000000
+      internalID: 5359487105291832458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25ee2a74f31ea260800000000000000
+      internalID: 7110642802407433516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e3b2de048ef4dc0800000000000000
+      internalID: -3652445407219597756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 94
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a121ed0880bf1c070800000000000000
+      internalID: 8125051216693432858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819999af4a1af2cc0800000000000000
+      internalID: -3733587836115773160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 101
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed93e685b22071280800000000000000
+      internalID: -9072780539124106786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 93
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280ac0b68131ab840800000000000000
+      internalID: 5240522111995125890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 80
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c587c993514d2ac20800000000000000
+      internalID: 3216366271521912924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 78
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f9a14470c12b460800000000000000
+      internalID: 7255892767180234534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 90
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29e565d7c2ec3500800000000000000
+      internalID: 377425816698874154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 86
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecc7541bc4079040800000000000000
+      internalID: 4654194010176867555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 92
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbccabb369e6ae810800000000000000
+      internalID: 1795368992986811580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 80
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2806a98506a8b60800000000000000
+      internalID: 7749112042507764475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 80
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d641e9ee94d2780800000000000000
+      internalID: -8706221215434117826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde8fa6097e834600800000000000000
+      internalID: 451361038121537245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 78
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae37ad8275cb9550800000000000000
+      internalID: 6168741210407517870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 79
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92ef932fcad29e70800000000000000
+      internalID: 9120592778569441949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 71
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ef6c0e27aa74fa0800000000000000
+      internalID: -5816492983351575038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 66
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e99457bdf7b18590800000000000000
+      internalID: -7673649989732230680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a316402e57a9d9b0800000000000000
+      internalID: -5054825084036443231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 56
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224715d645805ecd0800000000000000
+      internalID: -2529606456994335710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96e4421a1681ac90800000000000000
+      internalID: -7160294486008600933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death cloud-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 52
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8329c34633f7edff0800000000000000
+      internalID: -9430290506411464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

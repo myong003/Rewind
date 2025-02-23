@@ -6,6 +6,10 @@ public class Projectile : EntityCombat
     public double damageDealt;
     private void OnTriggerEnter2D(Collider2D coll) {
         print("Triggered");
+        if (coll.gameObject.tag == "Wall") {
+            Destroy(this.gameObject);
+        }
+
         EntityCombat enemy = coll.gameObject.GetComponent<EntityCombat>();
         if (enemy != null && enemy.team != this.team) {
             print("Hit");
