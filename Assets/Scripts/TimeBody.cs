@@ -14,24 +14,27 @@ public class TimeBody : MonoBehaviour
 		}
 	}
 
+
+	public float recordTime = 5f;
+
 	bool isRewinding = false;
 
+	List<PointInTime> pointsInTime;
+	Rigidbody2D rb;
+
+	SpriteRenderer afterimage;
 	public bool hasAfterimage = false;
 	float afterimageFrequency = 1;
 	float afterimageTimer;
+	List<Vector3> positions;
+
+	bool isPlayer = false;
+	EntityCombat playerCombat;
+	AudioSource rewindSound;
 
 	public TrailRenderer trailRenderer;
 	int latestPosition = 0;
 
-	public float recordTime = 5f;
-
-	List<PointInTime> pointsInTime;
-
-	Rigidbody2D rb;
-
-	SpriteRenderer afterimage;
-	List<Vector3> positions;
-	EntityCombat playerCombat;
 
 	// Use this for initialization
 	void Start()
@@ -40,6 +43,8 @@ public class TimeBody : MonoBehaviour
 		rb = GetComponent<Rigidbody2D>();
 		if (this.gameObject.tag == "Player") {
 			playerCombat = GetComponent<EntityCombat>();
+			rewindSound = GetComponent<AudioSource>();
+			isPlayer = true;
 		}
 	}
 
@@ -120,8 +125,9 @@ public class TimeBody : MonoBehaviour
 			positions = new List<Vector3>(arr);
 		}
 
-		if (playerCombat != null) {
+		if (isPlayer) {
 			playerCombat.isInvincible = true;
+			rewindSound.Play();
 		}
 	}
 
@@ -134,7 +140,7 @@ public class TimeBody : MonoBehaviour
 			positions.Clear();
 		}
 
-		if (playerCombat != null) {
+		if (isPlayer) {
 			playerCombat.isInvincible = false;
 		}
 	}

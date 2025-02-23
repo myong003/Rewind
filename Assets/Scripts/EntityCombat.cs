@@ -2,23 +2,31 @@ using UnityEngine;
 
 public class EntityCombat : MonoBehaviour
 {
-    public double maxHealth;
+    public float maxHealth;
     public bool team;
     public ProjectileSpawner spawner;
     public bool isInvincible = false;
-    private double currentHealth;
+    public AudioSource hitSound;
+    private float currentHealth;
     
-    public void takeDamage(double damageTaken) 
+    public void takeDamage(float damageTaken) 
     {
         if (isInvincible) {
             return;
         }
-        
+
+        if (hitSound != null) {
+            hitSound.Play();
+        }
         currentHealth -= damageTaken;
         print(this.gameObject + " took " + damageTaken + " damage");
         if (currentHealth <= 0) {
             Destroy(this.gameObject);
         }
+    }
+
+    public float getCurrentHealth() {
+        return currentHealth;
     }
 
     protected virtual void attack() 

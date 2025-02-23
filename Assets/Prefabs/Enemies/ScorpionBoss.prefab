@@ -347,10 +347,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69f33759ec855ef4ab784343ef54e5d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
+  maxHealth: 250
   team: 0
   spawner: {fileID: 4429240947980128008}
   isInvincible: 0
+  hitSound: {fileID: 0}
   basicAttackRate: 0.5
   basicAttackSpread: 10
   laserAttackRate: 10
@@ -438,6 +439,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 2686386798147637609, guid: e344e768a79f27b41836820fde0df461, type: 3}
   spawnPosition: {fileID: 3685459639957711719}
+  fireSound: {fileID: 0}
   team: 0
   projectileSpeed: 10
 --- !u!95 &2380444130301026408
