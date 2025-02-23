@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 9d79e4d487bdcec4bae2fd4ff3b78ad3
+guid: 6d41f1c5f8f6d86499b8283558ac1fcd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5382677869306177160
-    second: cat_idleDown_0
+      213: 812284261529280314
+    second: cat_dashUp_0
   - first:
-      213: 1523573183658622965
-    second: cat_idleDown_1
+      213: -3199242238062362931
+    second: cat_dashUp_1
   - first:
-      213: -2247448130540975053
-    second: cat_idleDown_2
+      213: -8401465862280176686
+    second: cat_dashUp_2
   - first:
-      213: 9142952242188523461
-    second: cat_idleDown_3
+      213: 4670632779492105616
+    second: cat_dashUp_3
+  - first:
+      213: 3672140311673310683
+    second: cat_dashUp_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,13 +112,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cat_idleDown_0
+      name: cat_dashUp_0
       rect:
         serializedVersion: 2
         x: 22
-        y: 14
+        y: 5
         width: 21
-        height: 38
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 886e954e00d13ba40800000000000000
-      internalID: 5382677869306177160
+      spriteID: a3fd7117b30d54b00800000000000000
+      internalID: 812284261529280314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat_idleDown_1
+      name: cat_dashUp_1
       rect:
         serializedVersion: 2
         x: 86
-        y: 14
+        y: 11
         width: 21
-        height: 38
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +149,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ff78410db1d42510800000000000000
-      internalID: 1523573183658622965
+      spriteID: dcefdd182220a93d0800000000000000
+      internalID: -3199242238062362931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat_idleDown_2
+      name: cat_dashUp_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db1836af4ff76b80800000000000000
+      internalID: -8401465862280176686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_dashUp_3
       rect:
         serializedVersion: 2
         x: 150
-        y: 14
+        y: 11
         width: 21
-        height: 38
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33c4dff25d57fc0e0800000000000000
-      internalID: -2247448130540975053
+      spriteID: 09d1ce154cb61d040800000000000000
+      internalID: 4670632779492105616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat_idleDown_3
+      name: cat_dashUp_4
       rect:
         serializedVersion: 2
-        x: 214
-        y: 14
-        width: 21
-        height: 38
+        x: 156
+        y: 2
+        width: 7
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c712027f9a42ee70800000000000000
-      internalID: 9142952242188523461
+      spriteID: bdd0eaa582016f230800000000000000
+      internalID: 3672140311673310683
       vertices: []
       indices: 
       edges: []
@@ -209,11 +234,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      cat_idleDown_0: 5382677869306177160
-      cat_idleDown_1: 1523573183658622965
-      cat_idleDown_2: -2247448130540975053
-      cat_idleDown_3: 9142952242188523461
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

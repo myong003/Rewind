@@ -11,11 +11,13 @@ public class ScorpionBoss : EntityCombat
     private float laserAttackTimer;
 
     public float chargeUpTime = 5f;
+    public float laserDelay = 0.5f;
 
     public float laserRotateDuration = 5f;
     public Transform arenaCenter;
 
     public GameObject laser;
+    public Transform laserEndpoint;
 
     private bool doingLaserAttack = false;
 
@@ -24,12 +26,13 @@ public class ScorpionBoss : EntityCombat
     {
         base.Start();
         basicAttackTimer = basicAttackRate;
-        laserAttackTimer = laserAttackRate;
+        laserAttackTimer = 0;
         player = GameObject.FindWithTag("Player");
     }
 
     void Update()
     {
+
         if (doingLaserAttack == false)
         {
             basicAttackTimer -= Time.deltaTime;
@@ -46,7 +49,7 @@ public class ScorpionBoss : EntityCombat
                 StartCoroutine(LaserAttack());
                 laserAttackTimer = laserAttackRate;
             }
-        } 
+        }
     }
 
     public IEnumerator LaserAttack()
@@ -61,10 +64,15 @@ public class ScorpionBoss : EntityCombat
             transform.rotation = Quaternion.Euler(0, 0, angle);
             yield return new WaitForSeconds(chargeUpTime/frames);
         }
+        yield return new WaitForSeconds(laserDelay);
+        
+        Vector3 posDiff = player.transform.position - laserEndpoint.position;
+        print(posDiff);
+        float rotationDirection = posDiff.x > 0 ? -1 : 1; // -1 for counter-clockwise, 1 for clockwise
         laser.SetActive(true);
 
         float startRotation = transform.eulerAngles.z;
-        float targetRotation = startRotation + 360f;
+        float targetRotation = startRotation + (360f * rotationDirection);
         print(startRotation + " " + targetRotation);
         float t = 0f;
         while (t < laserRotateDuration)

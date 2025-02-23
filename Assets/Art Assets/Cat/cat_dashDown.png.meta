@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 9d79e4d487bdcec4bae2fd4ff3b78ad3
+guid: 8b43eb3ec1ee9214cafd8f12cda6e007
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5382677869306177160
-    second: cat_idleDown_0
+      213: -7079936395156880012
+    second: cat_dashDown_0
   - first:
-      213: 1523573183658622965
-    second: cat_idleDown_1
+      213: 3412332960794774682
+    second: cat_dashDown_1
   - first:
-      213: -2247448130540975053
-    second: cat_idleDown_2
+      213: 6714567269729649253
+    second: cat_dashDown_2
   - first:
-      213: 9142952242188523461
-    second: cat_idleDown_3
+      213: 7324436363044224885
+    second: cat_dashDown_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,7 +109,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cat_idleDown_0
+      name: cat_dashDown_0
       rect:
         serializedVersion: 2
         x: 22
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 886e954e00d13ba40800000000000000
-      internalID: 5382677869306177160
+      spriteID: 47580561c530fbd90800000000000000
+      internalID: -7079936395156880012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat_idleDown_1
+      name: cat_dashDown_1
       rect:
         serializedVersion: 2
         x: 86
-        y: 14
+        y: 8
         width: 21
-        height: 38
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,18 +146,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ff78410db1d42510800000000000000
-      internalID: 1523573183658622965
+      spriteID: a9c878f9fba0b5f20800000000000000
+      internalID: 3412332960794774682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat_idleDown_2
+      name: cat_dashDown_2
       rect:
         serializedVersion: 2
         x: 150
-        y: 14
+        y: 8
         width: 21
         height: 38
       alignment: 0
@@ -168,20 +168,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33c4dff25d57fc0e0800000000000000
-      internalID: -2247448130540975053
+      spriteID: 56243b44b5fee2d50800000000000000
+      internalID: 6714567269729649253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat_idleDown_3
+      name: cat_dashDown_3
       rect:
         serializedVersion: 2
-        x: 214
-        y: 14
-        width: 21
-        height: 38
+        x: 154
+        y: 45
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,8 +190,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c712027f9a42ee70800000000000000
-      internalID: 9142952242188523461
+      spriteID: 57f743fc010a5a560800000000000000
+      internalID: 7324436363044224885
       vertices: []
       indices: 
       edges: []
@@ -209,11 +209,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      cat_idleDown_0: 5382677869306177160
-      cat_idleDown_1: 1523573183658622965
-      cat_idleDown_2: -2247448130540975053
-      cat_idleDown_3: 9142952242188523461
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
