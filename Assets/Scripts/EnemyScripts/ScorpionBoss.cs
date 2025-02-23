@@ -5,13 +5,14 @@ using UnityEngine;
 public class ScorpionBoss : EntityCombat
 {
     public float basicAttackRate = 5f;
+    public float basicAttackSpread;
 
     public float laserAttackRate = 10f;
     private float basicAttackTimer;
     private float laserAttackTimer;
 
     public float chargeUpTime = 5f;
-    public float laserDelay = 0.5f;
+    public float laserDelay = 1f;
 
     public float laserRotateDuration = 5f;
     public Transform arenaCenter;
@@ -32,19 +33,22 @@ public class ScorpionBoss : EntityCombat
 
     void Update()
     {
+        if (basicAttackTimer < 0)
+        {
+            Vector3 firstShotDirection = player.transform.position - transform.position;
+            float randX = Random.Range(basicAttackSpread * -1, basicAttackSpread);
+            float randY = Random.Range(basicAttackSpread * -1, basicAttackSpread);
+            Vector3 secondShotDirection = firstShotDirection + new Vector3(randX, randY, 0);
+            attack(firstShotDirection);
+            attack(secondShotDirection);
+            basicAttackTimer = basicAttackRate;
+        }
+        basicAttackTimer -= Time.deltaTime;
 
         if (doingLaserAttack == false)
         {
-            basicAttackTimer -= Time.deltaTime;
             laserAttackTimer -= Time.deltaTime;
-
-            if (basicAttackTimer < 0)
-            {
-                Vector3 direction = player.transform.position - transform.position;
-                attack(direction);
-                basicAttackTimer = basicAttackRate;
-            }
-            else if (laserAttackTimer < 0)
+            if (laserAttackTimer < 0)
             {
                 StartCoroutine(LaserAttack());
                 laserAttackTimer = laserAttackRate;
@@ -55,7 +59,6 @@ public class ScorpionBoss : EntityCombat
     public IEnumerator LaserAttack()
     {
         doingLaserAttack = true;
-        basicAttackTimer = basicAttackRate;
         transform.position = arenaCenter.position;
         int frames = 60;
         for (int i = 0; i < frames; i++) {

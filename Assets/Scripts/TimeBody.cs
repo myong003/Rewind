@@ -31,12 +31,16 @@ public class TimeBody : MonoBehaviour
 
 	SpriteRenderer afterimage;
 	List<Vector3> positions;
+	EntityCombat playerCombat;
 
 	// Use this for initialization
 	void Start()
 	{
 		pointsInTime = new List<PointInTime>();
 		rb = GetComponent<Rigidbody2D>();
+		if (this.gameObject.tag == "Player") {
+			playerCombat = GetComponent<EntityCombat>();
+		}
 	}
 
 	// Update is called once per frame
@@ -114,11 +118,10 @@ public class TimeBody : MonoBehaviour
 			latestPosition = trailRenderer.positionCount - 1;
 			trailRenderer.GetPositions(arr);
 			positions = new List<Vector3>(arr);
+		}
 
-			// print(positions.Count);
-			// foreach (Vector3 position in positions) {
-			// 	print(position);
-			// }
+		if (playerCombat != null) {
+			playerCombat.isInvincible = true;
 		}
 	}
 
@@ -129,6 +132,10 @@ public class TimeBody : MonoBehaviour
 		if (trailRenderer != null) {
 			trailRenderer.emitting = true;
 			positions.Clear();
+		}
+
+		if (playerCombat != null) {
+			playerCombat.isInvincible = false;
 		}
 	}
 }

@@ -1,12 +1,13 @@
 using UnityEngine;
 
-public class Projectile : EntityCombat
+public class Projectile : MonoBehaviour
 {
+    public bool team;
     public bool disappearOnHit;
     public double damageDealt;
     private void OnTriggerEnter2D(Collider2D coll) {
         print("Triggered");
-        if (coll.gameObject.tag == "Wall") {
+        if (coll.gameObject.tag == "Wall" && this.disappearOnHit) {
             Destroy(this.gameObject);
         }
 
