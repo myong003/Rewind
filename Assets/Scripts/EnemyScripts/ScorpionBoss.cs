@@ -7,9 +7,9 @@ public class ScorpionBoss : EntityCombat
     public float basicAttackRate = 5f;
     public float basicAttackSpread;
 
-    public float laserAttackRate = 10f;
+    public float specialAttackRate = 10f;
     private float basicAttackTimer;
-    private float laserAttackTimer;
+    private float specialAttackTimer;
 
     public float chargeUpTime = 5f;
     public float laserDelay = 1f;
@@ -20,14 +20,19 @@ public class ScorpionBoss : EntityCombat
     public GameObject laser;
     public Transform laserEndpoint;
 
-    private bool doingLaserAttack = false;
+    public GameObject ring;
+    public float jumpTime = 2f;
+    public float ringSpeed;
+    public float ringTime;
+
+    private bool doingSpecialAttack = false;
 
     private GameObject player;
     protected override void Start()
     {
         base.Start();
         basicAttackTimer = basicAttackRate;
-        laserAttackTimer = 0;
+        specialAttackTimer = 0;
         player = GameObject.FindWithTag("Player");
     }
 
@@ -45,20 +50,37 @@ public class ScorpionBoss : EntityCombat
         }
         basicAttackTimer -= Time.deltaTime;
 
-        if (doingLaserAttack == false)
+
+        if (doingSpecialAttack == false)
         {
-            laserAttackTimer -= Time.deltaTime;
-            if (laserAttackTimer < 0)
+            specialAttackTimer -= Time.deltaTime;
+            if (specialAttackTimer < 0)
             {
-                StartCoroutine(LaserAttack());
-                laserAttackTimer = laserAttackRate;
+                DoSpecialAttack();
+                specialAttackTimer = specialAttackRate;
             }
+        }
+    }
+    
+    public void DoSpecialAttack() {
+
+        int numAttacks = 2;
+        int attack = Random.Range(0, numAttacks);
+        doingSpecialAttack = true;
+        switch(attack) {
+            case 0:
+                StartCoroutine(LaserAttack());
+                break;
+            case 1:
+                StartCoroutine(RingAttack());
+                break;
+            default:
+                break;
         }
     }
 
     public IEnumerator LaserAttack()
     {
-        doingLaserAttack = true;
         transform.position = arenaCenter.position;
         int frames = 60;
         for (int i = 0; i < frames; i++) {
@@ -87,7 +109,29 @@ public class ScorpionBoss : EntityCombat
         }
         laser.SetActive(false);
 
-        doingLaserAttack = false;
+        doingSpecialAttack = false;
+        yield return null;
+    }
+
+    public IEnumerator RingAttack()
+    {
+        yield return new WaitForSeconds(jumpTime);
+        
+        Vector3 originalScale = ring.transform.localScale;
+        ring.SetActive(true);
+
+        int frames = 60;
+        float t = 0f;
+        while (t < ringTime)
+        {
+            t += Time.deltaTime;
+            ring.transform.localScale += new Vector3(ringSpeed/ 100, ringSpeed/ 100, 0);
+            yield return new WaitForSeconds(1/frames);
+        }
+        ring.SetActive(false);
+        ring.transform.localScale = originalScale;
+        doingSpecialAttack = false;
+
         yield return null;
     }
 }

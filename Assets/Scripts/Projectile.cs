@@ -6,7 +6,7 @@ public class Projectile : MonoBehaviour
     public bool disappearOnHit;
     public float damageDealt;
     private void OnTriggerEnter2D(Collider2D coll) {
-        print("Triggered");
+        // print("Triggered");
         if (coll.gameObject.tag == "Wall" && this.disappearOnHit) {
             Destroy(this.gameObject);
         }
